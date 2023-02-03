@@ -1,3 +1,4 @@
+![logo](https://github.com/shohanur-rahman93/shohanur-rahman93/blob/main/Screenshot%202023-02-03%20115833.png)
 <h1 align="center">Hi 👋, I'm Shohanur Rahman</h1>
 <h3 align="center">A passionate AI Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
