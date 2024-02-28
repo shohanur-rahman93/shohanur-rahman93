@@ -1,7 +1,7 @@
 ![logo](https://github.com/shohanur-rahman93/shohanur-rahman93/blob/main/Screenshot%202023-02-03%20115833.png)
 
 ### 👨‍ About Me:
-<h3 align="center">This is Shohanur Rahman.Currenty studying in Bangladesh University Of Business And Technology(BUBT).Currently i am enrolling 3rd year.I'm a self motivated and dedicated to my work.😀</h3>
+<h3 align="center">This is Shohanur Rahman.Currenty studying in Bangladesh University Of Business And Technology(BUBT).Currently i am enrolling 4th year.I'm a self motivated and dedicated to my work.😀</h3>
 
 ### 🧑‍🦰 More About Me:
 🔭 I’m currently Studying on 6'th semester in the CSE department of BUBT** <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> <br><br>🌱 I’m currently learning Web Development<br><br>🌱 I’m I’m currently doing competitive programming<br><br>💬 Ask me about AnyThing<br><br>📫 How to reach me shohanur.rahman.cse.bubt@gmail.com
